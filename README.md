@@ -29,4 +29,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umutyolacan19&" alt="umutyolacan19" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umutyolacan19&label=Profile%20views&color=0e75b6&style=flat" alt="umutyolacan19" /> </p>
+
